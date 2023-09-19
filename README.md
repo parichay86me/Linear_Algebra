@@ -4,3 +4,5 @@ Solution of Linear Equations
 Numerical Computation
 <br>
 Used in FE
+<br>
+Author: Parichay
